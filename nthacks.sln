@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nthacks", "nthacks.vcxproj", "{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Debug|x64.ActiveCfg = Debug|x64
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Debug|x64.Build.0 = Debug|x64
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Debug|x86.Build.0 = Debug|Win32
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Release|x64.ActiveCfg = Release|x64
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Release|x64.Build.0 = Release|x64
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Release|x86.ActiveCfg = Release|Win32
+		{D2A05ECD-13E3-47BB-B2E2-35187EB65C7C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA23A3B-94F5-47F7-94BD-EF36A32F95E6}
+	EndGlobalSection
+EndGlobal
